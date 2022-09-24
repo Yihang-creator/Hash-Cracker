@@ -35,5 +35,5 @@ def bruteforce(passwordHash, hashtype):
                 exit()
         break
 
-bruteforce('1a75a3c4ba3d20ae21d703dd6484642f', 'md5')
+bruteforce('1a75a3c4ba3d20ae21d703dd6484642f', 'md5') #gives you amplify
 
